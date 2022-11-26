@@ -1,0 +1,5 @@
+a=14
+b=19
+print("bitwise AND operator on 14 and 19",a&b)
+print(" bitwise OR operator on 14 and 19",a|b)
+print("bitwise EXCLUSIVE OR operator on 14 and 19",a^b)
